@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TP2Homework</string>
+    <string name="find_your_contact">Find your contact</string>
+    <string name="name">Name</string>
+    <string name="description">Description</string>
+    <string name="laxman_marothiya">Laxman Marothiya</string>
+    <string name="surat">Surat</string>
+    <string name="adhyaksh">(Adhyaksh)</string>
+    <string name="phone_number">Call Phone Number</string>
+    <string name="send_email">Send Email</string>
+</resources>
