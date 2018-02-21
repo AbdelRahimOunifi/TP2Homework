@@ -47,6 +47,7 @@ public class RecyclerAdapter extends RecyclerView.Adapter<ViewHolder> {
             detail.putExtra("num",sampleuser.num);
             detail.putExtra("email",sampleuser.email);
             detail.putExtra("loc",sampleuser.location);
+            detail.addFlags(Intent.FLAG_ACTIVITY_NEW_TASK);
             context.startActivity(detail);
         }
     });
